@@ -1,1 +1,3 @@
-# git_trails1_version
+this is my index page .
+
+today iam learn git&github info
